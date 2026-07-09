@@ -1,6 +1,7 @@
 # rtt_pcb_defect_detect
     基于STM32H7的嵌入式机器视觉PCB缺陷检测系统 
     （代码见Release，完整zip包），pc_server.py为上位机WIFI-TCP通信链路代码
+    cpp-muc-v10压缩包为TensorFlow Lite推理引擎导出的模型文件
   摘要
   
   针对 PCB 生产行业人工目视检测效率低、漏检率高、传统 PC 机器视觉设
